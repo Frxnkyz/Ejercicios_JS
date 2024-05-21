@@ -1,0 +1,19 @@
+/************************************************/
+/*       ESTILO EJERCICIOS JS                   */
+/*                                              */
+/*        FRANCISCO ROMERO ZARCO                */
+/*                                              */
+/*                                              */
+/************************************************/
+
+/*****************GENERAL************************/
+#hero{
+    background-image: url(../imagenes/calite.jpg);
+    background-size: cover;
+    border-radius: 10px
+}
+
+#linkinfo{
+    text-decoration: none;
+    color:#f7df1e  ;
+}
